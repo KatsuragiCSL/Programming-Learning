@@ -2,8 +2,8 @@
 This is a place to share my learning on programming, with a heavy tendency of offensive toolkits. This is aimed to record my learning path.
 
 **Course list**
-| Course      | Learning point | Status     |
-| :---        | :----          | :---       |
+| Course      | Learning point | Status     | Works	|
+| :---        | :----          | :---       | :---	|
 | [Design Patterns Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)	| Software engineering	| Not started	|
 | [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)	| Software engineering  | Done   |
 | [Software Engineering at Google](https://abseil.io/resources/swe-book)	| Software engineering  | Not started   |
