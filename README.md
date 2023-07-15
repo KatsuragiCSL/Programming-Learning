@@ -15,11 +15,13 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)	|	placeholder	|	NOt started	|
 | | |
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university)	|	Study plan aiming to be dev in FAANG	|	Not started	|
+| [VisuAlgo](https://visualgo.net/en)	|	visualization of algorithms with training and notes	|	Not started	|
 | [Leetcode](https://leetcode.com/)	|	Competitive programming chall	|	In progress	|
 | [Kattis](https://open.kattis.com/)	|	Competitive programming chall   |       Not started     |
 | [Project Euler](https://projecteuler.net/)	|	Mathematical programming chall	|	Not started	|
 | [Leetcode Cookbook](https://books.halfrost.com/leetcode/)	| Software engineering	| Not started	|
-| [Competitive Programming](https://cpbook.net/details?cp=4)	|	Competotove programming book	|	Not started	|
+| [Competitive Programming](https://cpbook.net/details?cp=4)	|	Competetitive programming book	|	Not started	|
+| [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/cs3233.html)	|	Competitive programming course using cp4 book with kattis	|	Not started	|
 | | |
 | [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)	|	C	|	Not started	|
 | | |
