@@ -29,3 +29,4 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Black Hat Go: Go Programming For Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659)      | Go      | Not started   |
 | [Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools](https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598)      | C#      | Not started   |
 | [Black Hat Rust](https://kerkour.com/black-hat-rust)      | Rust      | Not started   |
+| [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)	|	GPT from scratch by Andrej Karpathy	|	Not started	|
