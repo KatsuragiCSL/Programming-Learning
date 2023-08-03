@@ -12,7 +12,8 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Effective Software Testing](https://www.manning.com/books/effective-software-testing)	| Software engineering  | Not started   |
 | [The Pragmatic Programmer: Your Journey To Mastery](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)	|	placeholder	|	Not started	|
 | [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)	|	placeholder	|	Not started	|
-| [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)	|	placeholder	|	NOt started	|
+| [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)	|	placeholder	|	Not started	|
+| [How to Design Programs](https://htdp.org/)	|	program designs	|	Not started	|
 | | |
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university)	|	Study plan aiming to be dev in FAANG	|	Not started	|
 | [VisuAlgo](https://visualgo.net/en)	|	visualization of algorithms with training and notes	|	Not started	|
