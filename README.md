@@ -26,6 +26,8 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | | |
 | [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)	|	C	|	Not started	|
 | | |
+| [Game Engine Architecture](https://www.gameenginebook.com/)	|	Game programming	|	Not started	|
+| | |
 | [Grey Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)	| Python 	| Not started	|
 | [Black Hat Go: Go Programming For Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659)      | Go      | Not started   |
 | [Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools](https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598)      | C#      | Not started   |
