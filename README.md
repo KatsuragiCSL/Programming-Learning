@@ -24,9 +24,10 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Competitive Programming](https://cpbook.net/details?cp=4)	|	Competetitive programming book	|	Not started	|
 | [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/cs3233.html)	|	Competitive programming course using cp4 book with kattis	|	Not started	|
 | | |
-| [C Programming: A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)	|	C	|	Not started	|
+| [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)	|	C	|	Not started	|
 | | |
 | [Game Engine Architecture](https://www.gameenginebook.com/)	|	Game programming	|	Not started	|
+| [Dragonfly - Program a Game Engine from Scratch](https://dragonfly.wpi.edu/book/) |	Game engine from scratch	|	Not started	|
 | | |
 | [Grey Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)	| Python 	| Not started	|
 | [Black Hat Go: Go Programming For Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659)      | Go      | Not started   |
