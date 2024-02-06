@@ -22,6 +22,7 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Project Euler](https://projecteuler.net/)	|	Mathematical programming chall	|	Not started	|
 | [Leetcode Cookbook](https://books.halfrost.com/leetcode/)	| Software engineering	| Not started	|
 | [Competitive Programming](https://cpbook.net/details?cp=4)	|	Competetitive programming book	|	Not started	|
+| [Competition Programming and Problem Solving](https://contest.cs.cmu.edu/295/s24/)	|	Competitive programming course	|	Not started	|
 | [CS3233 - Competitive Programming](https://www.comp.nus.edu.sg/~stevenha/cs3233.html)	|	Competitive programming course using cp4 book with kattis	|	Not started	|
 | | |
 | [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)	|	C	|	Not started	|
