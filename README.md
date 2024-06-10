@@ -27,6 +27,8 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | | |
 | [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)	|	C	|	Not started	|
 | | |
+| [100 Exercises To Learn Rust](https://rust-exercises.com/)	|	Rust	|	In progress	|
+| | |
 | [Game Engine Architecture](https://www.gameenginebook.com/)	|	Game programming	|	Not started	|
 | [Dragonfly - Program a Game Engine from Scratch](https://dragonfly.wpi.edu/book/) |	Game engine from scratch	|	Not started	|
 | | |
