@@ -27,7 +27,7 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | | |
 | [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)	|	C	|	Not started	|
 | | |
-| [100 Exercises To Learn Rust](https://rust-exercises.com/)	|	Rust	|	In progress	|
+| [100 Exercises To Learn Rust](https://rust-exercises.com/)	|	Rust	|	Done	|
 | | |
 | [Game Engine Architecture](https://www.gameenginebook.com/)	|	Game programming	|	Not started	|
 | [Dragonfly - Program a Game Engine from Scratch](https://dragonfly.wpi.edu/book/) |	Game engine from scratch	|	Not started	|
@@ -35,5 +35,5 @@ This is a place to share my learning on programming, deisgn, methodology, offens
 | [Grey Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)	| Python 	| Not started	|
 | [Black Hat Go: Go Programming For Hackers and Pentesters](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659)      | Go      | Not started   |
 | [Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools](https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598)      | C#      | Not started   |
-| [Black Hat Rust](https://kerkour.com/black-hat-rust)      | Rust      | Not started   |
+| [Black Hat Rust](https://kerkour.com/black-hat-rust)      | Rust      | In progress   |
 | [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)	|	GPT from scratch by Andrej Karpathy	|	Not started	|
